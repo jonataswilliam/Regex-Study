@@ -18,3 +18,5 @@ console.log(texto.match(regexLetras))
 console.log(texto.search(regexLetras))
 // replace - Substitui o achou com o segundo paramentro passado na funcao.
 console.log(texto.replace(regexLetras, 'Achei'))
+// replace - Quebra o texto em array
+console.log(texto.split(regexLetras))
