@@ -1,4 +1,4 @@
-// g - global - Busca todas as ocorrencias dentro do texto. Se não for passado, o comando para ao encontrar a primeira ocorrencia
+// g - global - Busca todas as ocorrencias dentro do texto. Se não for passado, o comando para ao encontrar a primeira ocorrencia.
 // i - ignore case
 
 const texto = 'Carlos assinou o abaixo-assinado'
